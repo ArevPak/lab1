@@ -1,1 +1,2 @@
-ref: refs/heads/main
+if __name__ == '__main__'
+print('hello mess world')
