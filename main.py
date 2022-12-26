@@ -1,2 +1,2 @@
 if __name__ == '__main__'
-print('hello mess world')
+print('hello this world')
